@@ -15,3 +15,16 @@ Compact design, Hands-free usage, Low-cost solution, Real-time feedback
 
 🧠 Skills Gained
 Sensor interfacing, Embedded programming, Circuit assembly, Team collaboration
+
+🚨 Applications:
+* Assistive navigation for visually impaired individuals
+* Obstacle detection in crowded or unfamiliar environments
+* Indoor mobility support (homes, schools, hospitals)
+* Wearable safety aid for low-visibility conditions
+
+🚀 Future Improvements:
+* Voice alerts with text-to-speech output
+* GPS integration for outdoor navigation
+* AI-based object recognition using camera module
+* Wireless connectivity for mobile app support
+* Lighter and more ergonomic wearable design
